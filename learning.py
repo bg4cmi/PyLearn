@@ -8,8 +8,12 @@ A Python 3 tutorial from https://www.liaoxuefeng.com
 
 Usage:
 
+U1
+
+
 $ python3 learning.py
 '''
+
 
 # check #######################################################################
 
