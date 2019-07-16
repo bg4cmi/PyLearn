@@ -8,7 +8,7 @@ A Python 3 tutorial from https://www.liaoxuefeng.com
 
 Usage:
 
-U1
+U2
 
 
 $ python3 learning.py
